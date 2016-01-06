@@ -26,6 +26,7 @@
 		0133EA351C3CF9BB0069604B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0133EA381C3CF9BB0069604B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0133EA3A1C3CF9BB0069604B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		015A24081C3D50FD0089A7E0 /* Extrafile1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Extrafile1.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		0133EA1D1C3CF9BA0069604B = {
 			isa = PBXGroup;
 			children = (
+				015A24081C3D50FD0089A7E0 /* Extrafile1.h */,
 				0133EA281C3CF9BB0069604B /* MyFirstApp */,
 				0133EA271C3CF9BB0069604B /* Products */,
 			);
@@ -298,6 +300,7 @@
 				0133EA3F1C3CF9BB0069604B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
